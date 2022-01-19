@@ -6,6 +6,5 @@ function f(n) {
     }
 };
 
-
 f(2);
 //f('Content');

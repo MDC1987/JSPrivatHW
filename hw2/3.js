@@ -6,5 +6,6 @@ function f(a, b, c) {
     }
 };
 
+
 f(9,3,2); // 3
 //f('s',9,3) // Error: all parameters type should be a Number

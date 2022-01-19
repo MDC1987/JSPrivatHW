@@ -31,8 +31,6 @@ function f(n) {
     }
 };
 
-
-
 f(1); // Воскресенье
 //f(2); // Понедельник
 //f(8); // Error: parameter should be in the range of 1 to 7
