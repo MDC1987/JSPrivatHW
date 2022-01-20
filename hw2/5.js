@@ -21,4 +21,4 @@ for (var i = 0; i <= arr1.length - 1; i++) {
     }
 }
 
-console.log (arr2);
+console.log ('Массив положительных чисел:', arr2);
